@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "title": "OVO",
+            "titleen": "OVO", 
+            "image": "logo_ovo.png",
+            "color": "4c3494",
+            "press": "/panduanEwallet",
+            "params": "ovo"
+        },
+        {
+            "title": "Gopay",
+            "titleen": "Gopay",
+            "image": "logo_gopay.png",
+            "color": "00aed6",
+            "press": "/panduanEwallet",
+            "params": "gopay"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "name": "Syarat Pendaftaran Ulang",
+      "children": [
+        {
+          "name": "Non Kedokteran",
+          "information": "Klik untuk penjelasan syarat pendaftaran ulang Fakultas Non Kedokteranlebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>SYARAT PENDAFTARAN ULANG NON KEDOKTERAN</h3><hr><table width='100%'><tr><td><p align='center' style='padding:0;margin:0;font-size:16pt;'><strong>SYARAT PENDAFTARAN ULANG PESERTA LULUS UJIAN</strong><br><br></p><p>Sebagai mahasiswa baru Fakultas Kedokteran UMSU T.A. 2020/2021, untuk itu segera melakukan registrasi ulang dengan memenuhi persyaratan sebagai berikut : <ol type='1'><li>Menunjukkan Kartu Tanda Peserta Ujian (asli).</li><li>Melampirkan Fotocopy Kartu Keluarga.</li><li>Melampirkan Fotocopy Ijazah/Transkrip Nilai SLTA/sederajat yang telah dilegalisir pejabat yang berwenang, sebanyak 3 (tiga) set.</li><li>Menyiapkan 1 (satu) lembar materai Rp. 6.000,- </li><li>Membawa Surat Pernyataan yang telah ditandatangani oleh orang tua sesuai format yang diberikan oleh panitia.</li><li>Membayar Kewajiban sebagai berikut : <ol type='a'><li>Dana Pengembangan Pembangunan (DPP)</li><li>Biaya Penyelenggaraan Pendidikan (BPP) Satu Tahun Atau Dapat Dicicil Sebanyak 4 Tahapan</li></ol></li><li>DPP dan BPP dapat ditransfer ke Bank Syariah Mandiri, Bank BRI Syariah dan Bank BNI</li><li>Pembiayaan diluar dari kewajiban di atas adalah : <ol type='a'><li>Biaya KTI (Karya Tulis Ilmiah).</li><li>Biaya Kompri Al-Islam dan Kemuhammadiyahan.</li><li>Biaya Remedial, Praktikum, Skill Lab, Biaya Grand Remedial.</li><li>Biaya Kepaniteraan Klinik.</li><li>Biaya Wisuda.</li></ol></li><li>Registrasi ulang dapat dilakukan mulai tanggal 22 Juni 2020 s.d 30 Juni 2020 di Kampus Utama UMSU Jl.Kapten Mukhtar Basri No.3 Medan.</li><li>Bila tidak dapat memenuhi persyaratan diatas sampai batas waktu yang telah ditetapkan, maka yang bersangkutan dinyatakan gugur sebagai calon mahasiswa Fakultas Kedokteran UMSU T.A. 2020/2021.</li></ol></p></td></tr></table></div>",
+          "action": "Baca"
+        },
+        {
+          "name": "Kedokteran",
+          "information": "Klik untuk penjelasan syarat pendaftaran ulang Fakultas Kedokteran lebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>SYARAT PENDAFTARAN ULANG KEDOKTERAN</h3><hr><table width='100%'><tr><td><p align='center' style='padding:0;margin:0;font-size:16pt;'><strong>SYARAT PENDAFTARAN ULANG PESERTA LULUS UJIAN</strong><br><br></p><p>Sebagai mahasiswa baru Fakultas Kedokteran UMSU T.A. 2020/2021, untuk itu segera melakukan registrasi ulang dengan memenuhi persyaratan sebagai berikut : <ol type='1'><li>Menunjukkan Kartu Tanda Peserta Ujian (asli).</li><li>Melampirkan Fotocopy Kartu Keluarga.</li><li>Melampirkan Fotocopy Ijazah/Transkrip Nilai SLTA/sederajat yang telah dilegalisir pejabat yang berwenang, sebanyak 3 (tiga) set.</li><li>Menyiapkan 1 (satu) lembar materai Rp. 6.000,- </li><li>Membawa Surat Pernyataan yang telah ditandatangani oleh orang tua sesuai format yang diberikan oleh panitia.</li><li>Membayar Kewajiban sebagai berikut : <ol type='a'><li>Dana Pengembangan Pembangunan (DPP) Rp. 240.000.000,- secara lunas, atau dicicil 4 tahap Rp 60.000.000,- setiap semester (1 s.d. 4) </li><li>Biaya Penyelenggaraan Pendidikan (BPP) satu tahun Rp 60.000.000,- atau dibayar untuk semester 1 semester Rp 30.000.000,- </li><li>Jumlah total yang dibayar saat registrasi ulang dengan pilihan lunas sebesar Rp 300.000.000,- atau Rp 90.000.000,- dengan pilihan tahapan.</li></ol></li><li>DPP dan BPP dapat ditransfer ke Bank Syariah Mandiri dengan nomor Rekening 7777884454 (Nama yang lulus ditulis dalam berita form transfer Bank) dan DPP dan BPP juga dapat ditransfer ke Bank BNI</li><li>Pembiayaan diluar dari kewajiban di atas adalah : <ol type='a'><li>Biaya KTI (Karya Tulis Ilmiah).</li><li>Biaya Kompri Al-Islam dan Kemuhammadiyahan.</li><li>Biaya Remedial, Praktikum, Skill Lab, Biaya Grand Remedial.</li><li>Biaya Kepaniteraan Klinik.</li><li>Biaya Wisuda.</li></ol></li><li>Registrasi ulang dapat dilakukan mulai tanggal 22 Juni 2020 s.d 30 Juni 2020 di Kampus Utama UMSU Jl.Kapten Mukhtar Basri No.3 Medan.</li><li>Bila tidak dapat memenuhi persyaratan diatas sampai batas waktu yang telah ditetapkan, maka yang bersangkutan dinyatakan gugur sebagai calon mahasiswa Fakultas Kedokteran UMSU T.A. 2020/2021.</li></ol></p></td></tr></table></div>",
+          "action": "Baca"
+        }
+      ]
+    },
+    {
+      "name": "Syarat Foto Diri",
+      "children": [
+        {
+          "name": "Syarat Foto Diri",
+          "information": "Klik untuk penjelasan Syarat Foto Diri lebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>SYARAT FOTO DIRI</h3><hr><legend>Unggah Foto</legend><table><tr valign='top'><td><p>Foto yang anda unggah akan digunakan pada <strong>Kartu Ujian</strong>. Berikut ini adalah syarat foto yang akan diunggah.<ul><li>Unggah foto yang Anda gunakan pada Kartu Ujian Nasional</li><li>Pas Photo terbaru (3 bulan terakhir)</li><li>Warna latar pas photo berwarna merah atau biru</li><li>Wajah pada pas photo melihat lurus ke arah kamera</li><li>Pas photo merupakan close up dari kepala dan bahu sehingga memenuhi 80% dari seluruh photo</li><li>Mata harus terbuka dan terlihat jelas</li><li>Tidak ada bagian kepala yang terpotong dan wajah tidak boleh tertutupi ornamen</li><li>File foto yang diizinkan hanya dalam bentuk <strong>.jpg</strong></li><li>File foto dalam bentuk <strong> .png</strong> atau <strong> .jpeg</strong> tidak diizinkan</li><li>Ukuran file foto tidak lebih dari 1 MB</li><li>Resolusi maksimum foto yang dapat diunggah adalah 300dpi</li><li>Ukuran dimensi file foto yang dapat diunggah adalah 472 x 709 pixel (lebar x tinggi)</li></ul></p></td><td style='padding-left:40px;' valign='top'><p><strong>Contoh foto yang benar</strong></p><img src='http://penmaru.umsu.ac.id/images/contoh_pasfoto.jpg' alt='Contoh Pas Photo Yang Benar' style='border: 1px solid #999;padding: 5px;' width='140px' /></td></tr></table><p><h3>Tutorial Membuat Pas Foto Ukuran 80% Wajah</h3><video width='640' controls><source src='http://penmaru.umsu.ac.id/download/tutorialpasfoto.mp4' type='video/mp4'></video></p></div>",
+          "action": "Baca"
+        }
+      ]
+    },
+    {
+      "name": "Biaya Pendidikan",
+      "children": [
+        {
+          "name": "Non Kedokteran",
+          "information": "Klik untuk penjelasan Biaya Pendidikan Non Kedokteran lebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>BIAYA PENDIDIKAN</h3><hr>Biaya Pendidikan Mahasiswa Baru Non Kedokteran Tahun Akademik 2020/2021 dapat didownload <a href='http://penmaru.umsu.ac.id/download/biaya_pendidikan_nonkedokteran_2019.pdf' download='biaya_pendidikan_nonkedokteran_2019.pdf'><font color='#00CC00'>di sini</font></a><br></div>",
+          "action": "Baca"
+        },
+        {
+          "name": "Kedokteran",
+          "information": "Klik untuk penjelasan Biaya Pendidikan Kedokteran lebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>BIAYA PENDIDIKAN</h3><hr>Biaya Pendidikan Mahasiswa Baru Kedokteran Tahun Akademik 2020/2021 dapat didownload <a href='http://penmaru.umsu.ac.id/download/biaya_pendidikan_kedokteran_2019.pdf' download='biaya_pendidikan_kedokteran_2019.pdf'><font color='#00CC00'>di sini</font></a><br></div>",
+          "action": "Baca"
+        },
+        {
+          "name": "Pascasarjana",
+          "information": "Klik untuk penjelasan Biaya Pendidikan Pascasarjana lebih lanjut.",
+          "description": "<div class='row'><div class='col-xs-12 col-sm-6 col-lg-8'><h3>BIAYA PENDIDIKAN</h3><hr>Biaya Pendidikan Mahasiswa Baru Program Pascasarjana Tahun Akademik 2019/2020 Genap dapat didownload <a href='http://penmaru.umsu.ac.id/download/biaya_pendidikan_pascasarjana_20191.pdf' download='biaya_pendidikan_pascasarjana_20191.pdf'><font color='#00CC00'>di sini</font></a><br></div>",
+          "action": "Baca"
+        }
+      ]
+    }
+  ]
+}

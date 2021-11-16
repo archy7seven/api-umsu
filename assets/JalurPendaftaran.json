@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "title": "Jalur Prestasi (Fakultas Kedokteran)",
+            "icon": "seal-variant",
+            "colorBox": "1565c0",
+            "iconColor": "FFFFFF",
+            "colorText": "FFFFFF",
+            "size": 250,
+            "iconSize": 150,
+            "press": "/maintenance"
+        },
+        {
+            "title": "Jalur Reguler (Seluruh Kelompok)",
+            "icon": "school",
+            "colorBox": "ff8f00",
+            "iconColor": "FFFFFF",
+            "colorText": "FFFFFF",
+            "size": 250,
+            "iconSize": 150,
+            "press": "/reguler"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "title": "Cara Login",
+            "titleen": "How to Login",
+            "icon": "login",
+            "color": "ff8a80",
+            "press": "Cpwys_-tJkM",
+            "type": "video"
+        },
+        {
+            "title": "Cara Menautkan Akun E-learning",
+            "titleen": "How to Link Accounts",
+            "icon": "email-sync",
+            "color": "00b8d4",
+            "press": "ehuQbN3hu6Y",
+            "type": "video"
+        },
+        {
+            "title": "Cara Enrol Mata Kuliah",
+            "titleen": "How to Enrol Courses",
+            "icon": "teach",
+            "color": "81c784",
+            "press": "4bBbqs9t-PQ",
+            "type": "video"
+        },
+        {
+            "title": "Cara Absensi",
+            "titleen": "How to attendance",
+            "icon": "calendar-account",
+            "color": "ffab40",
+            "press": "eYRgh9rf2pY",
+            "type": "video"
+        },
+        {
+            "title": "Cara Download Materi",
+            "titleen": "How to Download Files",
+            "icon": "download",
+            "color": "00bfa5",
+            "press": "https://drive.google.com/file/d/1FqWNsyFbuHJZSdpg3eARLfaZaIpOzXO9/view?usp=sharing",
+            "type": "url"
+        },
+        {
+            "title": "Cara Kirim Tugas",
+            "titleen": "How to Send Assignment",
+            "icon": "file-send-outline",
+            "color": "ba68c8",
+            "press": "https://drive.google.com/file/d/1zNsi3xd6Gja8puIaDJruXUMa1vC9QOqY/view?usp=sharing",
+            "type": "url"
+        },
+        {
+            "title": "Cara Mengikuti Kuis",
+            "titleen": "How to Take The Quiz",
+            "icon": "comment-check",
+            "color": "006db3",
+            "press": "https://drive.google.com/file/d/1sk2piY8_-Lia1hlKM_tNrc_XkU8jVMn2/view?usp=sharing",
+            "type": "url"
+        },
+        {
+            "title": "Cara Menjawab Forum",
+            "titleen": "How to Answer Forums",
+            "icon": "forum",
+            "color": "ff6090",
+            "press": "https://drive.google.com/file/d/1tATvnsVgKdvsSc6ggSpZ-bCtGez_-vj4/view?usp=sharing",
+            "type": "url"
+        } 
+    ]
+}

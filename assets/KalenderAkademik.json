@@ -1,0 +1,857 @@
+{
+    "items": [
+        {
+            "date": "2020-11-16",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pendaftaran Mahasiswa Baru Tahun 2021 Fakultas Non Kedokteran & Fakultas Kedokteran (Gelombang I)"
+                }
+            ]
+        },
+        {
+            "date": "2020-12-14",
+            "deskription": [
+                {
+                    "name": "Lanjutan Perkuliahan Semester Ganjil TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-2-1",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Akhir Semester Ganjil TA.2020/2021 "
+                }
+            ]
+        },
+        {
+            "date": "2021-2-6",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Akhir Semester Ganjil TA.2020/2021 "
+                }
+            ]
+        },
+        {
+            "date": "2021-2-8",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Libur Akademik Semester Ganjil TA.2020/2021"
+                },
+                {
+                    "name": "Hari Pertama Ujian Susulan/Remedial Semester Ganjil TA.2020/2021"
+                },
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap III TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-2-13",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Susulan/Remedial Semester Ganjil TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-2-20",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Penginputan Nilai Semester Ganjil TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-2-27",
+            "deskription": [
+                {
+                    "name": "Milad Universitas Muhammadiyah Sumatera Utara"
+                }
+            ]
+        },
+        {
+            "date": "2021-3-6",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Akademik Semester Ganjil TA.2020/2021 "
+                }
+            ]
+        },
+        {
+            "date": "2021-3-8",
+            "deskription": [
+                {
+                    "name": "Kuliah Efektif Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-3-12",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap III TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-3-27",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Pascasarjana "
+                }
+            ]
+        },
+        {
+            "date": "2021-3-13",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pengisian KRS Online Semester Genap TA.2020/2021"
+                },
+                {
+                    "name": "Pembimbingan Akademik"
+                },
+                {
+                    "name": "Mulai Pendaftaran Ujian AIK, Kewirausahaan, TKBI"
+                }
+            ]
+        },
+        {
+            "date": "2021-5-8",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Pelaksanaan Sidang Meja Hijau 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-4-12",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Libur Ramadhan dan Hari Raya Idul Fitri 1442 Hijriyah"
+                }
+            ]
+        },
+        {
+            "date": "2021-5-22",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Ramadhan dan Hari Raya Idul Fitri 1442 Hijriyah"
+                }
+            ]
+        },
+        {
+            "date": "2021-5-29",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Pendaftaran Wisuda Periode I 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-7",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Tengah Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-12",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Tengah Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-15",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-17",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang I)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-18",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Hari Terakhir Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Hari Pertama Pendaftaran Mahasiswa Baru Tahun 2021 Fakultas Non Kedokteran & Fakultas Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-19",
+            "deskription": [
+                {
+                    "name": "Pengumuman Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Pelaksanaan CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Pengumuman Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-20",
+            "deskription": [
+                {
+                    "name": "Pengumuman Hasil Tes CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-21",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap IV TA.2020/2021"
+                },
+                {
+                    "name": "Hari Pertama Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran & Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Pelaksanaan CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-26",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang I)"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-29",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode I 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-6-30",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang I)"
+                },
+                {
+                    "name": "Wisuda Periode I 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-7-16",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap IV TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-2",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Akhir Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-7",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Akhir Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-9",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Susulan/Remedial Semester Genap TA.2020/2021"
+                },
+                {
+                    "name": "Hari Pertama Libur Akademik Semester Genap TA.2020/2021"
+                },
+                {
+                    "name": "Hari Pertama Kuliah Kerja Nyata (KKN) TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-14",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Susulan/Remedial Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-18",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                },
+                {
+                    "name": "Hari Pertama Pendaftaran Mahasiswa Baru Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-19",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru Tahun 2021 Fakultas Non Kedokteran (Gelombang II)"
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-20",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                },
+                {
+                    "name": "Hari Terakhir Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                },
+                {
+                    "name": "Hari Pertama Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-21",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Penginputan Nilai Semester Genap TA.2020/2021 "
+                }
+            ]
+        },
+        {
+            "date": "2021-8-22",
+            "deskription": [
+                {
+                    "name": "Pengumuman Hasil Tes CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-23",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Pascasarjana"
+                },
+                {
+                    "name": "Hari Pertama Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran & Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-28",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-8-31",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang II)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-2",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-3",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                },
+                {
+                    "name": "Hari Terakhir Tes Kesehatan Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-4",
+            "deskription": [
+                {
+                    "name": "Pelaksanaan CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-5",
+            "deskription": [
+                {
+                    "name": "Pengumuman Hasil Tes CBT Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                },
+                {
+                    "name": "Hari Pertama Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-12",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-17",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang III)"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-18",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Akademik Semester Genap TA.2020/2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-20",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap I TA.2021/2022"
+                },
+                {
+                    "name": "Mulai Pendaftaran Uji Kompetensi Keahlian TA.2021/2022"
+                },
+                {
+                    "name": "Hari Pertama Pembimbingan Akademik TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-27",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pelaksanaan PKKMB & MASTA IMM 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-9-30",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pelaksanaan PKKMB & MASTA IMM 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-10-2",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang III)"
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang III)"
+                },
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Fakultas Non Kedokteran (Gelombang III)"
+                },
+                {
+                    "name": "Hari Pertama Pengisian KRS Online Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-10-4",
+            "deskription": [
+                {
+                    "name": "Kuliah Efektif Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-10-8",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Pascasarjana "
+                },
+                {
+                    "name": "Batas Akhir Pengisian Formulir Pendaftaran Mahasiswa Baru UMSU Tahun 2021 Pascasarjana"
+                },
+                {
+                    "name": "Hari Terakhir Daftar Ulang Mahasiswa Baru UMSU Tahun 2021 Pascasarjana"
+                }
+            ]
+        },
+        {
+            "date": "2021-10-16",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Kuliah Kerja Nyata (KKN) TA.2020/2021"
+                },
+                {
+                    "name": "Hari Terakhir Pembimbingan Akademik TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-18",
+            "deskription": [
+                {
+                    "name": "Milad Muhammadiyah Ke - 109 (Menurut Tahun Miladiyah)"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-12",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap I TA.2021/2022"
+                },
+                {
+                    "name": "Hari Terakhir Pengisian KRS Online Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-20",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Pendaftaran Wisuda Periode II 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-22",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Tengah Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-27",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Tengah Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-11-29",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap II TA.2021/2022"
+                },
+                {
+                    "name": "Lanjutan Perkuliahan Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2021-12-20",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode II 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-12-21",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode II 2021"
+                }
+            ]
+        },
+        {
+            "date": "2021-12-22",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode II 2021"
+                }
+            ]
+        },
+        {
+            "date": "2022-1-8",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap II TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-1-17",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Akhir Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-1-22",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Akhir Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-1-24",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Susulan/Remedial Semester Ganjil TA.2021/2022"
+                },
+                {
+                    "name": "Hari Pertama Libur Akademik Semester Ganjil TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-2-5",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Susulan/Remedial Semester Ganjil TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-2-19",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Akademik Semester Ganjil TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-2-21",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap III TA.2021/2022"
+                },
+                {
+                    "name": "Hari Pertama Pengisian KRS Online Semester Genap TA.2021/2022"
+                },
+                {
+                    "name": "Kuliah Efektif Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-4-1",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Libur Ramadhan dan Hari Raya Idul Fitri 1443 Hijriyah"
+                }
+            ]
+        },
+        {
+            "date": "2022-4-10",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Pelaksanaan Sidang Meja Hijau 2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-13",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap III TA.2021/2022"
+                },
+                {
+                    "name": "Hari Terakhir Pengisian KRS Online Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-11",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Ramadhan dan Hari Raya Idul Fitri 1443 Hijriyah"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-17",
+            "deskription": [
+                {
+                    "name": "Lanjutan Perkuliahan Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-23",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Tengah Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-28",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Tengah Semester Genap TA.2021/2022"
+                },
+                {
+                    "name": "Batas Akhir Pendaftaran Wisuda Periode I 2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-30",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Pembayaran BPP Tahap IV TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-7-8",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Pembayaran BPP Tahap IV TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-5-30",
+            "deskription": [
+                {
+                    "name": "Lanjutan Perkuliahan Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-6-27",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode I 2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-6-28",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode I 2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-6-29",
+            "deskription": [
+                {
+                    "name": "Wisuda Periode I 2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-7-18",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Akhir Semester Genap TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-7-23",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Akhir Semester Genap TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-7-25",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Ujian Susulan/Remedial Semester Genap TA.2021/2022 "
+                },
+                {
+                    "name": "Hari Pertama Libur Akademik Semester Genap TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-8-6",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Ujian Susulan/Remedial Semester Genap TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-8-13",
+            "deskription": [
+                {
+                    "name": "Batas Akhir Penginputan Nilai Semester Genap TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-9-3",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Libur Akademik Semester Genap TA.2021/2022 "
+                }
+            ]
+        },
+        {
+            "date": "2022-7-18",
+            "deskription": [
+                {
+                    "name": "Hari Pertama Kuliah Kerja Nyata (KKN) Tematik TA.2021/2022"
+                }
+            ]
+        },
+        {
+            "date": "2022-11-26",
+            "deskription": [
+                {
+                    "name": "Hari Terakhir Kuliah Kerja Nyata (KKN) Tematik TA.2021/2022"
+                }
+            ]
+        }
+    ]
+}

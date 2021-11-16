@@ -1,0 +1,100 @@
+{
+    "items": [
+        {
+            "title": "Fakultas",
+            "titleen": "Faculty",
+            "icon": "domain",
+            "colorBox": "4DB6AC",
+            "iconColor": "FFFFFF",
+            "press": "/fakultas"
+        },
+        {
+            "title": "Alur Daftar",
+            "titleen": "Registration Step",
+            "icon": "clipboard-flow-outline",
+            "colorBox": "D4E157",
+            "iconColor": "FFFFFF",
+            "press": "/alur"
+        },
+        {
+            "title": "Jadwal Daftar",
+            "titleen": "Registration Schedule",
+            "icon": "calendar-month",
+            "colorBox": "FFA726",
+            "iconColor": "FFFFFF",
+            "press": "/jadwal"
+        },
+        {
+            "title": "Penmaru",
+            "titleen": "Penmaru",
+            "icon": "clipboard-text-outline",
+            "colorBox": "A1887F",
+            "iconColor": "FFFFFF",
+            "press": "/penmaru"
+        },
+        {
+            "title": "Syarat & Biaya",
+            "titleen": "Terms & Fees",
+            "icon": "cash-refund",
+            "colorBox": "90A4AE",
+            "iconColor": "FFFFFF",
+            "press": "/syarat"
+        },
+        {
+            "title": "Maps",
+            "titleen": "Maps",
+            "icon": "office-building-marker",
+            "colorBox": "B39DDB",
+            "iconColor": "FFFFFF",
+            "press": "/maps"
+        },
+        {
+            "title": "Kontak",
+            "titleen": "Contact",
+            "icon": "phone",
+            "colorBox": "66bb6a",
+            "iconColor": "FFFFFF",
+            "press": "/kontak"
+        },
+        {
+            "title": "Berita",
+            "titleen": "News",
+            "icon": "earth",
+            "colorBox": "EF9A9A",
+            "iconColor": "FFFFFF",
+            "press": "/berita"
+        },
+        {
+            "title": "Portal",
+            "titleen": "Portal",
+            "icon": "badge-account-horizontal",
+            "colorBox": "42A5F5",
+            "iconColor": "FFFFFF",
+            "press": "/simakad"
+        },
+        {
+            "title": "E-learning",
+            "titleen": "E-learning",
+            "icon": "book",
+            "colorBox": "7986CB",
+            "iconColor": "FFFFFF",
+            "press": "/elearning"
+        },
+        {
+            "title": "SKPI",
+            "titleen": "SKPI",
+            "icon": "book-account",
+            "colorBox": "FF7043",
+            "iconColor": "FFFFFF",
+            "press": "/skpi"
+        },
+        {
+            "title": "Lainnya",
+            "titleen": "Other",
+            "icon": "blur",
+            "colorBox": "ffc107",
+            "iconColor": "FFFFFF",
+            "press": "/more"
+        }
+    ]
+}
