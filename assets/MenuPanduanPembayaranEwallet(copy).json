@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "title": "DANA",
+            "titleen": "DANA",
+            "image": "logo_dana.png",
+            "color": "108ee9",
+            "press": "/panduanEwallet",
+            "params": "dana"
+        },
+        {
+            "title": "OVO",
+            "titleen": "OVO", 
+            "image": "logo_ovo.png",
+            "color": "4c3494",
+            "press": "/panduanEwallet",
+            "params": "ovo"
+        },
+        {
+            "title": "Gopay",
+            "titleen": "Gopay",
+            "image": "logo_gopay.png",
+            "color": "00aed6",
+            "press": "/panduanEwallet",
+            "params": "gopay"
+        },
+        {
+            "title": "LinkAja",
+            "titleen": "Link Aja",
+            "image": "logo_linkaja.png",
+            "color": "e82529",
+            "press": "/panduanEwallet",
+            "params": "linkaja"
+        },
+        {
+            "title": "ShopeePay",
+            "titleen": "Shopee Pay",
+            "image": "logo_shopeepay.png",
+            "color": "f44336",
+            "press": "/panduanEwallet",
+            "params": "shopeepay"
+        }
+    ]
+}

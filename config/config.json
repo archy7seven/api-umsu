@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "azmi",
+    "password": "bP7tENxZCupMIf2C",
+    "database": "dbPenmaru2017",
+    "host": "10.0.1.30",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

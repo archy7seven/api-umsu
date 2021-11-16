@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "title": "Layanan Penerimaan Mahasiswa Baru UMSU",
+            "icon": "account-tie",
+            "colorBox": "ff8f00",
+            "iconColor": "FFFFFF",
+            "colorText": "FFFFFF",
+            "size": 250,
+            "iconSize": 150,
+            "press": "/tawk"
+        },
+        {
+            "title": "Layanan Mahasiswa UMSU",
+            "icon": "account-supervisor",
+            "colorBox": "1565c0",
+            "iconColor": "FFFFFF",
+            "colorText": "FFFFFF",
+            "size": 250,
+            "iconSize": 150,
+            "press": "/tawklayanan"
+        }
+    ]
+}

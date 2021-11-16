@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "title": "Cara Login",
+            "titleen": "How to Login",
+            "icon": "login",
+            "color": "ef5350",
+            "press": "/panduan",
+            "params": "login"
+        },
+        {
+            "title": "Cara Set Biaya Pokok",
+            "titleen": "How to Set Mandatory Cost",
+            "icon": "cash",
+            "color": "66bb6a",
+            "press": "/panduan",
+            "params": "setbiayapokok"
+        },
+        {
+            "title": "Cara Set Biaya Lain",
+            "titleen": "How to Set Other Cost",
+            "icon": "cash-multiple",
+            "color": "ffa000",
+            "press": "/panduan",
+            "params": "setbiayatambahan"
+        },
+        {
+            "title": "Cara Isi KRS",
+            "titleen": "How to Create KRS",
+            "icon": "notebook-edit",
+            "color": "ba68c8",
+            "press": "/panduan",
+            "params": "isikrs"
+        },
+        {
+            "title": "Cara Cetak KRS",
+            "titleen": "How to Print KRS",
+            "icon": "printer",
+            "color": "64b5f6",
+            "press": "/panduan",
+            "params": "cetakkrs"
+        }
+    ]
+}

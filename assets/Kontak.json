@@ -1,0 +1,63 @@
+{
+    "items": [
+        {
+            "name": "Kampus Utama",
+            "image": "utama.png",
+            "alias": "Non Kedokteran",
+            "address": "Jl. Kapt. Mukhtar Basri No.3 Medan 20238 Telp.061-6619056",
+            "contact": [
+                {
+                    "name": "Call Center 1",
+                    "phone": "08116503936"
+                },
+                {
+                    "name": "Call Center 2",
+                    "phone": "08116503937"
+                },
+                {
+                    "name": "Call Center 3",
+                    "phone": "08116503941"
+                }
+            ],
+            "time": "08.00 WIB - 17.30 WIB"
+        },
+        {
+            "name": "Kampus Kedokteran",
+            "image": "kedokteran.png",
+            "alias": "Kedokteran",
+            "address": "Jl. Gedung Arca No.53 Medan 20217  Telp.061-7350163 Fax.7366762",
+            "contact": [
+                {
+                    "name": "Catur Hery Purwanto, S.P",
+                    "phone": "081263545996"
+                },
+                {
+                    "name": "Nabila",
+                    "phone": "082164199722"
+                }
+            ],
+            "time": "08.00 WIB - 17.30 WIB"
+        },
+        {
+            "name": "Kampus Pascasarjana",
+            "image": "pascasarjana.png",
+            "alias": "Pascasarjana",
+            "address": "Jl. Denai No. 217 Medan 20226  Telp.061-88811104",
+            "contact": [
+                {
+                    "name": "Maya",
+                    "phone": "085372722141"
+                },
+                {
+                    "name": "Rina",
+                    "phone": "082271662441"
+                },
+                {
+                    "name": "Mutia",
+                    "phone": "082197565857"
+                }
+            ],
+            "time": "08.00 WIB - 17.30 WIB"
+        }
+    ]
+}

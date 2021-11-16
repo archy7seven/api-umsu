@@ -1,0 +1,57 @@
+{
+  "items": [{
+      "icon": "home",
+      "title": "Home",
+      "page": "DashboardPage",
+      "active": false
+    },
+    {
+      "icon": "cube",
+      "title": "Alur & Tata Cara",
+      "page": "AlurPendaftaranPage",
+      "active": false
+    },
+    {
+      "icon": "paper",
+      "title": "Jadwal Pendaftaran",
+      "page": "JadwalPendaftaranPage",
+      "active": false
+    },
+    {
+      "icon": "document",
+      "title": "Pendaftaran",
+      "page": "CommingsoonPage",
+      "active": false
+    },
+    {
+      "icon": "bonfire",
+      "title": "Syarat & Biaya",
+      "page": "CaraPembayaranPage",
+      "active": false
+    },
+    {
+      "icon": "call",
+      "title": "Kontak",
+      "page": "KontakPage",
+      "active": false
+    },
+    {
+      "icon": "browsers",
+      "title": "Pengumuman",
+      "page": "PengumumanPage",
+      "active": false
+    },
+    {
+      "icon": "ribbon",
+      "title": "Go to web",
+      "page": "PengumumanPage",
+      "active": false
+    },
+    {
+      "icon": "contact",
+      "title": "Login",
+      "page": "CommingsoonPage",
+      "active": false
+    }
+  ]
+}

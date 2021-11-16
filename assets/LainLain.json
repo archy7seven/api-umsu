@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "name": "Radio",
+            "children": [
+                {
+                    "type": "radio",
+                    "name": "M Radio",
+                    "description": "link"
+                }
+            ]
+        },
+        {
+            "name": "Tata Cara Melakukan Pengisian Kartu Rencana Studi (KRS) UMSU",
+            "children": [
+                {
+                    "type": "text",
+                    "name": "Alur Pengisian Kartu Rencana Studi (KRS) UMSU",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Tutorial E-learning",
+            "children": [
+                {
+                    "type": "video",
+                    "name": "Login Ke E-learning UMSU",
+                    "description": "Cpwys_-tJkM"
+                },
+                {
+                    "type": "video",
+                    "name": "Cara Menautkan akun E-Learning ke akun E-mail Pribadi",
+                    "description": "ehuQbN3hu6Y"
+                },
+                {
+                    "type": "video",
+                    "name": "Self Enrolnment Ke Mata Kuliah",
+                    "description": "4bBbqs9t-PQ"
+                },
+                {
+                    "type": "video",
+                    "name": "Cara Melakukan Absensi",
+                    "description": "eYRgh9rf2pY"
+                }
+            ]
+        }
+    ]
+}

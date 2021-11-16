@@ -1,0 +1,19 @@
+{
+    "items": [
+        {    
+            "title": "UNGGUL",
+            "text": "Menyelenggarakan pendidikan dan pengajaran berdasarkan\nAl-Islam dan Kemuhammadiyahan.",
+            "image": "https://api.umsu.ac.id/assets/Image/logo_umsu_baru.png"
+        },
+        {
+            "title": "CERDAS",
+            "text": "Menyelenggarakan penelitian, pengembangan ilmu\npengetahuan dan teknologi berdasarkan Al-Islam dan\nKemuhammadiyahan.",
+            "image": "https://api.umsu.ac.id/assets/Image/logo_umsu_baru.png"
+        },
+        {
+            "title": "TERPERCAYA",
+            "text": "Melakukan pengabdian kepada masyarakat melalui\npemberdayaan dan pengembangan kehidupan masyarakat\nberdasarkan Al-Islam dan Kemuhammadiyahan.",
+            "image": "https://api.umsu.ac.id/assets/Image/logo_umsu_baru.png"
+        }   
+    ]
+} 

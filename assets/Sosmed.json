@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "title": "UMSU MEDAN",
+            "icon": "facebook",
+            "colorBox": "4267B2",
+            "iconColor": "FFFFFF",
+            "press": "https://www.facebook.com/kampusumsu/"
+        },
+        {
+            "title": "UMSU MEDAN",
+            "icon": "twitter",
+            "colorBox": "1DA1F2",
+            "iconColor": "FFFFFF",
+            "press": "https://twitter.com/UMSUMedan"
+        },
+        {
+            "title": "UMSU_MEDAN",
+            "icon": "instagram",
+            "colorBox": "ff4081",
+            "iconColor": "FFFFFF",
+            "press": "https://www.instagram.com/umsumedan/"
+        },
+        {
+            "title": "UMSU MEDAN",
+            "icon": "youtube",
+            "colorBox": "FF0000",
+            "iconColor": "FFFFFF",
+            "press": "https://www.youtube.com/channel/UCxCmo2ln6uFNfqE1rV9VV7A"
+        },
+        {
+            "title": "BOT IT UMSU",
+            "icon": "telegram",
+            "colorBox": "0088cc",
+            "iconColor": "FFFFFF",
+            "press": "https://t.me/ITUMSU_bot"
+        }
+    ]
+}

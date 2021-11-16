@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "title": "FAI",
+            "icon": "islam",
+            "color": "2e7d32",
+            "press": "http://fai.umsu.ac.id/"
+        },
+        {
+            "title": "FKIP",
+            "icon": "book-account",
+            "color": "ffab00",
+            "press": "http://fkip.umsu.ac.id/"
+        },
+        {
+            "title": "FISIPOL",
+            "icon": "account-group",
+            "color": "c19101",
+            "press": "http://fisip.umsu.ac.id/"
+        },
+        {
+            "title": "FAPERTA",
+            "icon": "leaf",
+            "color": "0091ea",
+            "press": "http://faperta.umsu.ac.id/"
+        },
+        {
+            "title": "FEB",
+            "icon": "currency-usd",
+            "color": "ab47bc",
+            "press": "http://feb.umsu.ac.id/"
+        },
+        {
+            "title": "FAHUM",
+            "icon": "scale-balance",
+            "color": "e53935",
+            "press": "http://fahum.umsu.ac.id/"
+        },
+        {
+            "title": "FATEK",
+            "icon": "tools",
+            "color": "00c853",
+            "press": "http://fatek.umsu.ac.id/"
+        },
+        {
+            "title": "FIKTI",
+            "icon": "desktop-classic",
+            "color": "ff6f00",
+            "press": "http://fikti.umsu.ac.id/"
+        },
+        {
+            "title": "KEDOKTERAN",
+            "icon": "medical-bag",
+            "color": "ff80ab",
+            "press": "http://fk.umsu.ac.id/"
+        },
+        {
+            "title": "PASCA SARJANA",
+            "icon": "school",
+            "color": "00838f",
+            "press": "http://pascasarjana.umsu.ac.id/"
+        }
+    ]
+}

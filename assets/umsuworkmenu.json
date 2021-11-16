@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "title": "Kalender",
+            "icon": "calendar-month",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/calendar"
+        },
+        {
+            "title": "Kontak Karyawan",
+            "icon": "card-account-phone",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/kontak"
+        },
+        {
+            "title": "Jam Masuk",
+            "icon": "alarm-check",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/masuk"
+        },
+        {
+            "title": "Jam Pulang",
+            "icon": "clock-check-outline",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/pulang"
+        },
+        {
+            "title": "Keterlambatan",
+            "icon": "clock-alert-outline",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/terlambat"
+        },
+        {
+            "title": "Pulang Cepat",
+            "icon": "clock-fast",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/pulangcepat"
+        },  
+        {
+            "title": "Surat Edaran",
+            "icon": "email-multiple",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/surat"
+        },  
+        {
+            "title": "Surat Tugas",
+            "icon": "email-alert",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/surattugas"
+        },
+        {
+            "title": "Izin Cuti",
+            "icon": "email-edit",
+            "colorBox": "5c4db1",
+            "iconColor": "FFFFFF",
+            "press": "/izincuti"
+        }
+    ]
+}

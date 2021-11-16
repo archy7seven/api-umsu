@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "title": "UMSU MOBILE",
+            "Image": "umsu.png",
+            "teks": "Release date 1 Januari 2021",
+            "description": "<ol><h5>Fitur</h5><li><strong>Penmaru UMSU</strong><ul style='list-style-type:disc'><li>Register akun Penmaru (Jalur Reguler)</li><li>Info Penmaru</li><li>Cek kelulusan</li><li>Bukti pendaftaran</li></ul></li><li><strong>Portal Mahasiswa</strong><ul style='list-style-type:disc'><li>Login Portal</li><li>Ubah Password</li><li>Reset Password</li><li><ul>Security Portal<li>Passcode</li><li><ul>Biometric<li>Finger Print (Android Version 8.1.0+)</li><li>Face ID</li><li>Iris</li></ul></li></ul></li><li>Set pembayaran wajib</li><li>Set pembayaran lain</li><li>Set tagihan pembayaran wajib Lunas/Tahap</li><li>KRS Online (Isi KRS)</li><li>KHS Online</li><li>KTM digital</li></ul></li><li><strong>E-Learning</strong><ul><li>Redirect ke elearning.umsu.ac.id</li></ul></li><li><strong>SKPI</strong><ul><li>Redirect ke skpi.umsu.ac.id</li></ul></li><li><strong>Berita Seputar UMSU</strong><ul><li>Menampilkan update berita seputar kampus dan perkuliahan</li></ul></li><li><strong>MAPS UMSU<ul></strong><li>Menampilkan 3 alamat Kampus UMSU (Kampus Kedokteran, Kampus Pascasarjana, Kampus Utama)</li></ul></li><li><strong>Kalender Akademik</strong><ul><li>Berisikan tanggal-tanggal penting seputar perkuliahan</li></ul></li><li><strong>Panduan E-learning Mahasiswa</strong><ul><li>Panduan pembelajaran menggunakan E-learning UMSU (Video & Teks)</li></ul></li><li><strong>Panduan Simakad (Portal)</strong><ul><li>Panduan penggunaan Portal Mahasiswa</li></ul></li><li><strong>Panduan E-wallet</strong><ul><li>Panduan menggunakan E-wallet (OVO & Gopay) dalam melakukan pembayaran uang perkuliahan</ul></li><li><strong>UMSU Help (Live chat)</strong><ul><li>Layanan Penerimaan Mahasiswa Baru UMSU</li></ul><ul><li>Layanan Mahasiswa UMSU</li></ul><li><strong>Multi Language</strong><ul><li>Bahasa Indonesia</li><li>Bahasa Inggris</ul></li><li><strong>Notifikasi</strong><ul><li>Berisi pemberitahuan kepada mahasiswa seputar perkuliahan</li></ul></li></ol>"
+        }
+    ]
+}
