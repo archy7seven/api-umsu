@@ -1,10 +1,8 @@
-const menu = {}
-const { use, response } = require('../routes/routes')
+const home = {}
 const fs = require('fs')
-// const respon = require('../res')
 const connection = require('../koneksi')
 
-menu.menu = (req,res)=>{
+home.menu = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/MenuUtama.json');
         let menus = JSON.parse(rawdata);
@@ -22,7 +20,7 @@ menu.menu = (req,res)=>{
     }
 }
 
-menu.calendar = (req,res)=>{
+home.calendar = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/KalenderMerah.json');
         let menus = JSON.parse(rawdata);
@@ -40,7 +38,7 @@ menu.calendar = (req,res)=>{
     }
 }
 
-menu.event = (req,res)=>{
+home.event = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/KalenderAkademik.json');
         let menus = JSON.parse(rawdata);
@@ -58,7 +56,7 @@ menu.event = (req,res)=>{
     }
 }
 
-menu.sosmed = (req,res)=>{
+home.sosmed = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/Sosmed.json');
         let menus = JSON.parse(rawdata);
@@ -76,7 +74,7 @@ menu.sosmed = (req,res)=>{
     }
 }
 
-menu.menuPanduanElearning = (req,res)=>{
+home.menuPanduanElearning = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/MenuPanduanElearning.json');
         let menus = JSON.parse(rawdata);
@@ -94,7 +92,7 @@ menu.menuPanduanElearning = (req,res)=>{
     }
 }
 
-menu.menuPanduanSimakad = (req,res)=>{
+home.menuPanduanSimakad = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/MenuPanduanSimakad.json');
         let menus = JSON.parse(rawdata);
@@ -112,7 +110,7 @@ menu.menuPanduanSimakad = (req,res)=>{
     }
 }
 
-menu.banner = (req,res)=>{
+home.banner = (req,res)=>{
     try {
         connection.query('SELECT * FROM d_banner WHERE banner_active = 1 AND banner_status = 0 ORDER BY RAND() LIMIT 1',function (error,rows,fields) {
             if (error) {
@@ -129,7 +127,6 @@ menu.banner = (req,res)=>{
                 })
             }
         })
-        
     } catch (error) {
         res.status(500).send({
             status:false,
@@ -139,7 +136,7 @@ menu.banner = (req,res)=>{
     }
 }
 
-menu.slider = (req,res)=>{
+home.slider = (req,res)=>{
     try {
         connection.query('CALL penmaru_slider',function (error,rows,fields) {
             if (error) {
@@ -166,7 +163,7 @@ menu.slider = (req,res)=>{
     }
 }
 
-menu.stepLogin = (req,res)=>{
+home.stepLogin = (req,res)=>{
     try {
         let rawdata = fs.readFileSync('./assets/Step.json');
         let menus = JSON.parse(rawdata);
@@ -184,4 +181,22 @@ menu.stepLogin = (req,res)=>{
     }
 }
 
-module.exports = menu
+home.fakultas = (req,res)=>{
+    try {
+        let rawdata = fs.readFileSync('./assets/Fakultas.json');
+        let menus = JSON.parse(rawdata);
+        res.send({
+            status:true,
+            message:'Data Di Temukan..!',
+            data: menus.items
+        })
+    } catch (error) {
+        res.status(500).send({
+            status:false,
+            message:'Data Tidak Di Temukan..!',
+            data: null
+        })
+    }
+}
+
+module.exports = home
