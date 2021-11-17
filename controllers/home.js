@@ -110,9 +110,9 @@ home.menuPanduanSimakad = (req,res)=>{
     }
 }
 
-home.banner = (req,res)=>{
+home.banner = async (req,res)=>{
     try {
-        connection.query('SELECT * FROM d_banner WHERE banner_active = 1 AND banner_status = 0 ORDER BY RAND() LIMIT 1',function (error,rows,fields) {
+        await connection.query('SELECT * FROM d_banner WHERE banner_active = 1 AND banner_status = 0 ORDER BY RAND() LIMIT 1',function (error,rows,fields) {
             if (error) {
                 res.status(500).send({
                     status:false,
@@ -136,9 +136,9 @@ home.banner = (req,res)=>{
     }
 }
 
-home.slider = (req,res)=>{
+home.slider = async (req,res)=>{
     try {
-        connection.query('CALL penmaru_slider',function (error,rows,fields) {
+        await connection.query('CALL penmaru_slider',function (error,rows,fields) {
             if (error) {
                 res.status(500).send({
                     status:false,
