@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "azmi",
-    "password": "bP7tENxZCupMIf2C",
+    "username": "api_penmaru",
+    "password": "Vc8XAoejrXFy83BD",
     "database": "dbPenmaru2017",
     "host": "10.0.1.30",
     "dialect": "mysql"
