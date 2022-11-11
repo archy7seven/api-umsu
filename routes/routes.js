@@ -47,6 +47,10 @@ route.get('/koas/pengumuman',koas.pengumuman)
 route.post('/koas/login',koas.login)
 route.post('/koas/jadwal',koas.jadwal)
 route.get('/koas/mahasiswa',koas.mahasiswa)
+route.get('/koas/tahunAkademik',koas.tahunAkademik)
+route.post('/koas/jadwalabsen',koas.jadwalabsen)
+route.post('/koas/absensi',koas.absensi)
+route.post('/koas/initkegiatan',koas.initkegiatan)
 
 
 
