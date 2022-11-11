@@ -23,6 +23,7 @@ koas.menu = (req, res) => {
 koas.pengumuman = async (req, res) => {
     try {
         const pengumuman = await mkoas.dataPengumuman()
+        console.log(pengumuman);
         if (pengumuman.length < 1) {
             res.status(500).send({
                 status: false,
@@ -77,6 +78,7 @@ koas.jadwal = async (req, res) => {
 
     try {
         const jadwal = await mkoas.getJadwalMahasiswa(nim)
+        // console.log(jadwal);
         if (jadwal.length < 1) {
             res.status(500).send({
                 status: false,
@@ -176,32 +178,48 @@ koas.jadwalabsen = async (req, res) => {
 }
 
 koas.absensi = async (req, res) => {
-    const nim = req.body.npm;
+    const npm = req.body.npm;
     const keterangan = req.body.keterangan;
     const latlong = req.body.latlong;
     const geolokasi = req.body.geolokasi;
-    // try {
-    //     const absensi = await getJadwalAbsensi(nim)
-    //     if (absensi.length < 1) {
-    //         res.status(500).send({
-    //             status: false,
-    //             message: 'Data Tidak Di Temukan..!',
-    //             data: null
-    //         })
-    //     } else {
-    //         res.send({
-    //             status: true,
-    //             message: 'Data Di Temukan..!',
-    //             data: absensi
-    //         })
-    //     }
-    // } catch (error) {
-    //     res.status(500).send({
-    //         status:false,
-    //         message:'Data Tidak Di Temukan..!',
-    //         data: null
-    //     })
-    // }
+    const cekSkipExist = await mkoas.cekJadwalSkip(npm);
+    const tahunAkademik = await getTahunAkademik();
+
+    try {
+        if (cekSkipExist[0].length < 1) {
+            const cekAbsensiExist = await mkoas.getAbsensiExist(npm, keterangan);
+            if (cekAbsensiExist.length > 0) {
+                res.status(200).send({
+                    status: false,
+                    message: 'Absensi Sudah Ada..!',
+                })
+            } else {
+                const insertAbsensiMhs = mkoas.simpanAbsensi(npm, keterangan, latlong, geolokasi, tahunAkademik);
+                if (insertAbsensiMhs) {
+                    res.status(200).send({
+                        status: false,
+                        message: 'Absensi Berhasil Disimpan..!',
+                    })
+                } else {
+                    res.status(200).send({
+                        status: false,
+                        message: 'Absensi Sudah Ada..!',
+                    })
+                }
+            }
+        } else {
+            res.status(200).send({
+                status: false,
+                message: 'Maaf, Jadwal Kamu Sedang Ditangguhkan !!',
+                data: null
+            })
+        }
+    } catch (error) {
+        res.status(500).send({
+            status: false,
+            message: 'Terjadi kesalahan',
+        })
+    }
 }
 
 koas.initkegiatan = async (req, res) => {
@@ -219,6 +237,37 @@ koas.initkegiatan = async (req, res) => {
                 status: true,
                 message: 'Data Di Temukan..!',
                 data: initkegiatan
+            })
+        }
+    } catch (error) {
+        res.status(500).send({
+            status: false,
+            message: 'Data Tidak Di Temukan..!',
+            data: null
+        })
+    }
+}
+
+async function getTahunAkademik() {
+    const tahunAkademikKoas = await mkoas.getTahunAkademik()
+    return (tahunAkademikKoas.length > 0) ? tahunAkademikKoas[0].Term_Year_Name : null;
+}
+
+koas.getDoping = async (req, res) => {
+    const rs = req.body.rumahSakitId;
+    try {
+        const cekDosenPembimbing = await mkoas.getDoping(rs)
+        if (cekDosenPembimbing.length < 1) {
+            res.status(500).send({
+                status: false,
+                message: 'Data Tidak Di Temukan..!',
+                data: null
+            })
+        } else {
+            res.send({
+                status: true,
+                message: 'Data Di Temukan..!',
+                data: cekDosenPembimbing
             })
         }
     } catch (error) {

@@ -191,6 +191,49 @@ function getInitKegiatan(nim) {
     })
 }
 
+function cekJadwalSkip(nim) {
+    return new Promise((resolve, reject) => {
+        const query = `CALL Cek_Skip_Exists ('${nim}')`
+        connectionkoas.query(query, function (error, rows, fields) {
+            if (error) return reject(error);
+            return resolve(rows);
+        })
+    })
+}
+
+function getAbsensiExist(nim, keterangan) {
+    return new Promise((resolve, reject) => {
+        const query = `SELECT * FROM absensi WHERE absensiNim = '${nim}' AND date(FROM_UNIXTIME( absensi.absensiTanggal / 1000 )) = date(NOW()) AND absensiKeterangan = '${keterangan}'`
+        connectionkoas.query(query, function (error, rows, fields) {
+            if (error) return reject(error);
+            return resolve(rows);
+        })
+    })
+}
+
+function simpanAbsensi(npm, keterangan, latlong, geolokasi, tahunAkademik) {
+    return new Promise((resolve, reject) => {
+        const query = `INSERT INTO absensi (absensiNim, absensiTanggal, absensiKeterangan, absensiLatLong, absensiLokasi, absensiTahunAkademik) VALUES ('${npm}', '${Date.now()}', '${keterangan}', '${latlong}', '${geolokasi}', '${tahunAkademik}')`
+        connectionkoas.query(query, function (error, result) {
+            if (error) return reject(error);
+            return resolve(result);
+        })
+    })
+}
+
+function getDoping(rs) {
+    return new Promise((resolve, reject) => {
+        const query = `select * from dosen_pembimbing
+        left join rumkit on rumkit.rumahSakitId = dosen_pembimbing.dopingRumkitId
+        left join rumkit_detail on rumkit_detail.rumkitDetRumkitId = rumkit.rumahSakitId
+        where rumkit_detail.rumkitDetId = ${rs}`
+        connectionkoas.query(query, function (error, rows, fields) {
+            if (error) return reject(error);
+            return resolve(rows);
+        })
+    })
+}
+
 module.exports = {
     dataPengumuman,
     getTahunAkademik,
@@ -198,5 +241,9 @@ module.exports = {
     getJadwalMahasiswa,
     getDataMahasiswaKoas,
     getJadwalAbsensi,
-    getInitKegiatan
+    getInitKegiatan,
+    cekJadwalSkip,
+    getAbsensiExist,
+    simpanAbsensi,
+    getDoping
 };

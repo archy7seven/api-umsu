@@ -51,6 +51,7 @@ route.get('/koas/tahunAkademik',koas.tahunAkademik)
 route.post('/koas/jadwalabsen',koas.jadwalabsen)
 route.post('/koas/absensi',koas.absensi)
 route.post('/koas/initkegiatan',koas.initkegiatan)
+route.post('/koas/getDoping',koas.getDoping)
 
 
 
