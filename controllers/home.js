@@ -1,6 +1,6 @@
 const home = {}
 const fs = require('fs')
-const connection = require('../koneksi')
+// const connection = require('../koneksi')
 
 home.menu = (req,res)=>{
     try {

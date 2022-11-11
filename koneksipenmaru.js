@@ -1,6 +1,5 @@
 var mysql = require('mysql')
 
-
 const conn = mysql.createConnection({
     host:'222.124.3.203',
     port:'8306',
@@ -11,7 +10,7 @@ const conn = mysql.createConnection({
 
 conn.connect((err)=>{
     if (err) throw err
-    console.log('Mysql terkoneksi')
+    console.log('Terkoneksi Mysql Penmaru')
 })
 
 module.exports = conn

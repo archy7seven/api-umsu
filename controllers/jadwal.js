@@ -1,7 +1,6 @@
 const jadwal = {}
 const fs = require('fs')
-const { resolve } = require('path')
-const connection = require('../koneksi')
+const connection = require('../koneksipenmaru')
 
 jadwal.index = async(req,res) => {
     try {

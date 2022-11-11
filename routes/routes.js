@@ -8,6 +8,7 @@ const kontak = require('../controllers/kontak')
 const utility = require('../controllers/utility')
 const jadwal = require('../controllers/jadwal')
 const infoapps =require('../controllers/infoapps')
+const koas = require('../controllers/koas')
 
 // home
 route.get('/menu', home.menu)
@@ -33,15 +34,20 @@ route.get('/kontak', kontak.index)
 // utility
 route.get('/utility', utility.index)
 
-// jadwal
+jadwal
 route.get('/jadwal', jadwal.index)
 
 // infoapps
 route.get('/infoapps', infoapps.index)
 
 
-// test
-// route.get('/test', jadwal.dataJadwalCBT)
+// koas
+route.get('/koas/menu',koas.menu)
+route.get('/koas/pengumuman',koas.pengumuman)
+route.post('/koas/login',koas.login)
+route.post('/koas/jadwal',koas.jadwal)
+route.get('/koas/mahasiswa',koas.mahasiswa)
+
 
 
 

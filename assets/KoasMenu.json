@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "title": "Panduan",
+            "icon": "book-open-page-variant-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/panduanScreen"
+        },
+        {
+            "title": "Jadwal",
+            "icon": "calendar-range",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/jadwalScreen"
+        },
+        {
+            "title": "Kegiatan",
+            "icon": "clipboard-text-clock-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/logbookScreen"
+        },
+        {
+            "title": "Follow Up",
+            "icon": "account-multiple-check-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/followupScreen"
+        },
+        {
+            "title": "Kehadiran",
+            "icon": "format-list-checks",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/absenScreen"
+        },
+        {
+            "title": "Nilai",
+            "icon": "checkbox-multiple-marked-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/nilaiScreen"
+        },
+        {
+            "title": "Pembimbing",
+            "icon": "school-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/pembimbingScreen"
+        },
+        {
+            "title": "Berita",
+            "icon": "newspaper-variant-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/beritaScreen"
+        },
+        {
+            "title": "Evaluasi",
+            "icon": "comment-quote-outline",
+            "colorBox": "6777EF",
+            "iconColor": "6777EF",
+            "press": "/evaluasiScreen"
+        }
+    ]
+}

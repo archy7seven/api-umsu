@@ -27,5 +27,5 @@ app.use(function (req,res,next) {
 })
 
 app.listen(app.get('port'),()=>{
-    console.log("start server on port "+app.get('port'))
+    console.log("start server on port " + app.get('port'))
 })
