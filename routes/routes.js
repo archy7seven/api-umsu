@@ -20,7 +20,8 @@ route.get('/menuPanduanSimakad',home.menuPanduanSimakad)
 route.get('/banner',home.banner)
 route.get('/slider',home.slider)
 route.get('/steplogin',home.stepLogin)
-route.get('/fakultas',home.fakultas)
+route.get('/fakultas', home.fakultas)
+route.get('/menuFlutter', home.menuFlutter)
 
 // alurdaftar
 route.get('/alurdaftar', alurdaftar.index)
