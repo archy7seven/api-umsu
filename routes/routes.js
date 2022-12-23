@@ -9,6 +9,7 @@ const utility = require('../controllers/utility')
 const jadwal = require('../controllers/jadwal')
 const infoapps =require('../controllers/infoapps')
 const koas = require('../controllers/koas')
+const menulayanan = require('../controllers/menulayanan')
 
 // home
 route.get('/menu', home.menu)
@@ -41,6 +42,8 @@ route.get('/jadwal', jadwal.index)
 // infoapps
 route.get('/infoapps', infoapps.index)
 
+// menulayanan
+route.get('/menulayanan', menulayanan.index)
 
 // koas
 route.get('/koas/menu',koas.menu)
