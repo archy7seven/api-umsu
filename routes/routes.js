@@ -10,6 +10,7 @@ const jadwal = require('../controllers/jadwal')
 const infoapps =require('../controllers/infoapps')
 const koas = require('../controllers/koas')
 const menulayanan = require('../controllers/menulayanan')
+const onboarding = require('../controllers/onboarding')
 
 // home
 route.get('/menu', home.menu)
@@ -57,7 +58,7 @@ route.post('/koas/absensi',koas.absensi)
 route.post('/koas/initkegiatan',koas.initkegiatan)
 route.post('/koas/getDoping',koas.getDoping)
 
-
-
+// on boarding
+route.get('/onboarding', onboarding.index)
 
 module.exports = route
