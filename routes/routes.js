@@ -11,6 +11,8 @@ const infoapps =require('../controllers/infoapps')
 const koas = require('../controllers/koas')
 const menulayanan = require('../controllers/menulayanan')
 const onboarding = require('../controllers/onboarding')
+const live = require('../controllers/live')
+const digimob = require('../controllers/digimob')
 
 // home
 route.get('/menu', home.menu)
@@ -37,7 +39,7 @@ route.get('/kontak', kontak.index)
 // utility
 route.get('/utility', utility.index)
 
-jadwal
+// jadwal
 route.get('/jadwal', jadwal.index)
 
 // infoapps
@@ -45,6 +47,12 @@ route.get('/infoapps', infoapps.index)
 
 // menulayanan
 route.get('/menulayanan', menulayanan.index)
+
+// live
+route.get('/live', live.index)
+
+// DigiMob
+route.get('/digimob', digimob.index)
 
 // koas
 route.get('/koas/menu',koas.menu)
