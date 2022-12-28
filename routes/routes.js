@@ -13,6 +13,7 @@ const menulayanan = require('../controllers/menulayanan')
 const onboarding = require('../controllers/onboarding')
 const live = require('../controllers/live')
 const digimob = require('../controllers/digimob')
+const jalurpendaftaran = require('../controllers/jalurpendaftaran')
 
 // home
 route.get('/menu', home.menu)
@@ -50,6 +51,9 @@ route.get('/menulayanan', menulayanan.index)
 
 // live
 route.get('/live', live.index)
+
+// JalurPendaftaran
+route.get('/jalurpendaftaran', jalurpendaftaran.index)
 
 // DigiMob
 route.get('/digimob', digimob.index)
