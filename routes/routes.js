@@ -14,6 +14,7 @@ const onboarding = require('../controllers/onboarding')
 const live = require('../controllers/live')
 const digimob = require('../controllers/digimob')
 const jalurpendaftaran = require('../controllers/jalurpendaftaran')
+const jadwalPendaftaran = require('../controllers/jadwalpendaftaran')
 
 // home
 route.get('/menu', home.menu)
@@ -42,6 +43,9 @@ route.get('/utility', utility.index)
 
 // jadwal
 route.get('/jadwal', jadwal.index)
+
+// jadwal pendaftaran
+route.get('/jadwalpendaftaran', jadwalPendaftaran.index)
 
 // infoapps
 route.get('/infoapps', infoapps.index)
